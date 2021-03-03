@@ -25,19 +25,15 @@ export default {
     {
       name: 'El uso de la Voz',
       icon: 'icon-puzzle',
-    
     },
-
     {
       name: 'La fatiga vocal',
-      icon: 'icon-tag',
-      
+      icon: 'icon-tag', 
     },
 
     {
       name: ' Conclusión',
-      icon: 'icon-tag',
-      
+      icon: 'icon-tag', 
     },
 
   ],
