@@ -66,7 +66,7 @@ class TemarioView extends Component {
                   </tr>
                   <tr>
                     <td style={{ verticalAlign: "middle" }}>
-                      <b>La fatiga vocal</b>
+                      <b>5. La fatiga vocal</b>
                     </td>
                   </tr>
                 </tbody>
